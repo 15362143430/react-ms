@@ -44,10 +44,8 @@ export default class App extends Component {
             <div className="logo" />
             <Menu theme="dark" mode="inline" defaultSelectedKeys={['1']}>
               <Menu.Item key="1">
-                {/* <Link to='/'>
-                  <UserOutlined />
-                  <span>nav 1</span>
-                </Link> */}
+                   <UserOutlined />
+                   <span>nav 1</span>
               </Menu.Item>
               <Menu.Item key="2">
                 <VideoCameraOutlined />

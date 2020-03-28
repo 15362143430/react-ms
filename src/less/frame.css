@@ -1,0 +1,13 @@
+header {
+  line-height: 100%;
+  display: flex;
+}
+header .logo {
+  width: 120px;
+  height: 50px;
+  background: #fff;
+  margin-top: 7px;
+}
+.site-layout-background {
+  background: #fff;
+}
